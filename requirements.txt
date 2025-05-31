@@ -1,0 +1,6 @@
+streamlit
+openai
+langchain
+pdfminer.six
+python-dotenv
+PyMuPDF
